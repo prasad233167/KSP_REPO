@@ -1,0 +1,27 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "\"This is first Node JS Program\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dthe \u001b[2~First Node JS Program\"",
+  "main": "native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasad233167/KSP_REPO.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "demo"
+  ],
+  "author": "Shiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasad233167/KSP_REPO/issues"
+  },
+  "homepage": "https://github.com/prasad233167/KSP_REPO#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
